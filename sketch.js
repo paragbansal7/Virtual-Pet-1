@@ -1,6 +1,6 @@
 //Create variables here
 var dog , dogImg1, dogImg2;
-var database , foodS , foodStock;
+var database , foodS , foodStock=20;
 
 function preload(){
 	//load images here
