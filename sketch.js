@@ -4,8 +4,8 @@ var database , foodS , foodStock;
 
 function preload(){
 	//load images here
-  dogImg1 = loadImage("images/dogImg1.png");
-  dogImg2 = loadImage("images/dogImg2.png");
+  dogImg1 = loadImage("dogImg1.png");
+  dogImg2 = loadImage("dogImg2.png");
 }
 
 function setup() {
